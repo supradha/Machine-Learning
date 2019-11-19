@@ -1,4 +1,4 @@
-# Machine-Learning-examples
+# Machine-Learning
 
-Various examples from different tutorials and trials with different datasets or algorithms. 
+Kaggle projects of real world IoT data
 This repository consists of some of the classification examples and simple prediction examples
